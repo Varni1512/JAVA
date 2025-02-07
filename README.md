@@ -1,36 +1,36 @@
-# My Java & DSA Journey 🚀
+# 🚀 My Java Learning Journey  
 
-Welcome to my GitHub repository! Here, I document my progress in learning Java from basics to advanced topics, along with Data Structures and Algorithms (DSA). 
+Welcome to my Java Learning Repository! This repo contains all my progress, projects, and notes as I mastered Java from beginner to advanced concepts.  
 
-## About Me
-I'm currently exploring the world of Java development and sharpening my problem-solving skills with DSA. This repository serves as a journal of my learning process, projects, and code snippets as I progress from beginner to advanced levels.
+## 📌 What’s Inside?  
+- ✅ **Core Java** (Syntax, OOPs, Collections, Exception Handling)  
+- ✅ **Advanced Java** (Multithreading, JDBC, Networking, Lambda Expressions)  
+- ✅ **Data Structures & Algorithms in Java** (DSA)  
+- ✅ **Java Frameworks & Libraries** (Spring Boot, Hibernate - Coming Soon)  
+- ✅ **Mini-Projects & Practice Code**  
 
-## Journey Overview
+## 🏆 Progress  
+I have completed:  
+- [x] Java Basics & OOPs  
+- [x] Java Collections Framework  
+- [x] File Handling & Serialization  
+- [x] Multithreading & Concurrency  
+- [x] JDBC & Database Connectivity  
+- [x] DSA in Java (Ongoing - Love Babbar DSA Sheet)  
 
-### 1. **Basic Java Programs**
-Simple Java exercises covering fundamental concepts like:
-- Variables and Data Types
-- Control Statements (if-else, loops)
-- Functions and Methods
-- Object-Oriented Programming (OOP)
+## 💻 Projects  
+Here are some Java-based projects I’ve worked on:  
+1️⃣ **N-Queens Visualizer** - Solving & visualizing the N-Queens problem.  
+2️⃣ **Java-Based Console Applications** - Various small applications to practice concepts.  
+3️⃣ **[Upcoming] Full Java Web Application**  
 
-### 2. **Intermediate Java Projects**
-Projects focusing on:
-- Collections (ArrayList, HashMap, etc.)
-- File Handling
-- Exception Handling
-- Java Streams
+## 📖 Resources Used  
+- **GeeksforGeeks Java Course**  
+- **Apna College & Kunal Kushwaha DSA Course**  
+- **LeetCode & GeeksforGeeks for Java-based DSA**  
 
-### 3. **Advanced Java Concepts**
-Exploration of:
-- Multithreading
-- Java Networking
-- Design Patterns
+## 🤝 Connect & Collaborate  
+If you’re also learning Java, feel free to fork, contribute, or discuss concepts with me! 🚀  
 
-### 4. **Data Structures & Algorithms (DSA)**
-Code challenges and problems related to:
-- Arrays, Linked Lists, Stacks, and Queues
-- Trees, Graphs, and Heaps
-- Searching and Sorting Algorithms
-- Dynamic Programming
-- Recursion
+🔗 **[GitHub Profile](https://github.com/your-username)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/your-profile/)**  
