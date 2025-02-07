@@ -21,5 +21,5 @@ Here are some Java-based projects I’ve worked on:
 ## 🤝 Connect & Collaborate  
 If you’re also learning Java, feel free to fork, contribute, or discuss concepts with me! 🚀  
 
-🔗 **[GitHub Profile](https://github.com/Varni1512)**  
-🔗 **[LinkedIn](www.linkedin.com/in/varnikumarpatel)**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/varnikumarpatel)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:varnikumar1512@domain.com)
